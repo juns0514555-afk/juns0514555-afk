@@ -42,7 +42,7 @@ I like to try things out as soon as I get curious, and that's how the projects o
 <td width="50%" valign="top">
 
 **📖 [ジュン‐ササ辞典](https://junsasa.com)**<br>
-自分の経験と考え方を辞典の形にまとめたサイト。AIの「ささAI」が、辞典の中身をもとに質問に答えます（AIの答えであることを常に表示）。
+自分の経験と考え方を辞典の形にまとめたサイト。AIの「ささAI」が、辞典の中身をもとに質問に答えます（AIの答えであることを常に表示）。<br>ログイン画面の「<b>ゲストとして続ける</b>」から、どなたでも見られます。
 
 `Cloudflare Workers` `D1` `Claude API` `TypeScript`
 
