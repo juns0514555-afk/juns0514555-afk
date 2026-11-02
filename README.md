@@ -59,18 +59,18 @@ PCで開いていたアプリとウィンドウから、AIがその日の日報�
 <tr>
 <td width="50%" valign="top">
 
-**📊 [studyplus-mcp](https://github.com/juns0514555-afk/studyplus-mcp)** ![public](https://img.shields.io/badge/public-2ea44f?style=flat-square)<br>
-学習記録アプリ Studyplus の記録を、Claude などのAIとの会話の中で確認したり書き込んだりできる MCP サーバー。週ごとの目標との差も出します。
+**📊 学習記録アプリのMCPサーバー**<br>
+AIアシスタントとの会話の中で、自分の学習記録を確認したり書き込んだりできる個人用ツール。週ごとの目標との差も出します。
 
 `Python` `MCP`
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 [canvas-lms-cli](https://github.com/juns0514555-afk/canvas-lms-cli)** ![public](https://img.shields.io/badge/public-2ea44f?style=flat-square)<br>
-大学の授業システム Canvas LMS の課題、お知らせ、資料をターミナルから読むツール。講義動画の字幕を取り出すスクリプトも入っています。
+**🎓 大学の授業システムを読むツール**<br>
+課題の締切、お知らせ、授業資料をまとめて読み、講義動画の文字起こしからノートを作る個人用ツール。
 
-`Node.js` `Chrome DevTools Protocol`
+`Node.js` `MCP` `faster-whisper`
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ PCで開いていたアプリとウィンドウから、AIがその日の日報�
 </tr>
 </table>
 
-<sub>「public」の付いた作品はコードを公開しています。 / Projects marked "public" are open source.</sub>
+<sub>「public」の付いた作品はコードを公開しています。ほかは非公開です。 / Projects marked "public" are open source.</sub>
 
 <details>
 <summary><b>💡 なぜ辞典を作ったのか</b></summary>
