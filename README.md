@@ -10,15 +10,13 @@
 
 ### 🙋 About
 
-まず動いてから考えるタイプです。
+はじめまして、笹 純です。東京の大学で国際経営を学んでいます。
+好きなことは、バスケと旅行です。オーストラリアに半年あまり住んでいたこともあります。
+気になったことはまず試してみる性格で、このページの作品も、そうして作ったものです。
 
-英語がほとんど聞き取れないままメルボルンに渡り、着いて3日で仕事を見つけ、2か月でホールのリーダーになりました。
-小さいころからずっとバスケをしていて、オーストラリアでは国籍がばらばらな仲間とバスケの会を立ち上げ、40人規模の場に育てました。
-困りごとがあると、つい自分で道具を作って解決したくなります。このページの作品も、ほとんどがそうして生まれました。
-
-I'm the type who acts first and figures things out on the way.
-I moved to Melbourne barely able to follow spoken English, found a job within three days, and became a floor leader two months later.
-Basketball has been part of my life since I was a kid. In Australia, I started a pickup basketball group that grew to about 40 players from all over the world.
+Hi, I'm Jun Sasa, a student studying international business at a university in Tokyo.
+I love basketball and traveling, and I spent over half a year living in Australia.
+I like to try things out as soon as I get curious, and that's how the projects on this page came about.
 
 | | |
 |---|---|
