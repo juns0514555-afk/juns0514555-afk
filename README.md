@@ -73,6 +73,8 @@ AIアシスタントとの会話の中で、自分の学習記録を確認した
 `Node.js` `MCP` `faster-whisper`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **💬 公式LINE**<br>
