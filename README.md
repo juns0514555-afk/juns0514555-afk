@@ -23,7 +23,7 @@ Basketball has been part of my life since I was a kid. In Australia, I started a
 | | |
 |---|---|
 | 🏀 **Basketball** | 中学でキャプテン。今もプレー専門 |
-| ✈️ **Places** | 🇦🇺 Melbourne / Gold Coast　🇵🇭 Philippines　🇳🇿 New Zealand　🇻🇳 Vietnam　🇰🇷 Korea |
+| ✈️ **Places** | Melbourne、Gold Coast、Philippines、New Zealand、Vietnam、Korea |
 | 🗣️ **Languages** | 日本語、English（IELTS 7.0） |
 | 🎓 **School** | 立教大学 経営学部 国際経営学科 3年（2028年卒業予定） |
 | 💼 **Now** | 長期インターンで、マーケティングとシステム開発の両方に関わっています |
