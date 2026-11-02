@@ -18,13 +18,15 @@ Hi, I'm Jun Sasa, a student studying international business at a university in T
 I love basketball and traveling, and I spent over half a year living in Australia.
 I like to try things out as soon as I get curious, and that's how the projects on this page came about.
 
-| | |
-|---|---|
-| 🏀 **Basketball** | 中学でキャプテン。今もプレー専門 |
-| ✈️ **Places** | Melbourne、Gold Coast、Philippines、New Zealand、Vietnam、Korea |
-| 🗣️ **Languages** | 日本語、English（IELTS 7.0） |
-| 🎓 **School** | 立教大学 経営学部 国際経営学科 3年（2028年卒業予定） |
-| 💼 **Now** | 長期インターンで、マーケティングとシステム開発の両方に関わっています |
+<table>
+<tr><td>🏀 <b>Likes</b></td><td>バスケ、旅行</td></tr>
+<tr><td>✈️ <b>Been to</b></td><td>Australia、Philippines、New Zealand、Vietnam、Thailand、Korea</td></tr>
+<tr><td>🔥 <b>Lately</b></td><td>AIを使った個人開発</td></tr>
+<tr><td>🗣️ <b>Languages</b></td><td>日本語、English（IELTS 7.0）</td></tr>
+<tr><td>🎓 <b>School</b></td><td>立教大学 経営学部 国際経営学科</td></tr>
+<tr><td>💼 <b>Now</b></td><td>長期インターンで、マーケティングとシステム開発の両方に関わっています</td></tr>
+<tr><td>💬 <b>Motto</b></td><td>まずやってみる</td></tr>
+</table>
 
 ### 🖥️ Demo
 
