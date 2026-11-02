@@ -20,7 +20,7 @@ I like to try things out as soon as I get curious, and that's how the projects o
 
 <table>
 <tr><td>🏀 <b>Likes</b></td><td>バスケ、旅行</td></tr>
-<tr><td>✈️ <b>Been to</b></td><td>Australia、Philippines、New Zealand、Vietnam、Thailand、Korea</td></tr>
+<tr><td>✈️ <b>Been to</b></td><td><b>16 countries</b>：Australia、Philippines、New Zealand、Vietnam、Thailand、Korea ほか</td></tr>
 <tr><td>🔥 <b>Lately</b></td><td>AIを使った個人開発</td></tr>
 <tr><td>🗣️ <b>Languages</b></td><td>日本語、English（IELTS 7.0）</td></tr>
 <tr><td>🎓 <b>School</b></td><td>立教大学 経営学部 国際経営学科</td></tr>
