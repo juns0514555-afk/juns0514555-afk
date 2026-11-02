@@ -49,10 +49,10 @@ I like to try things out as soon as I get curious, and that's how the projects o
 </td>
 <td width="50%" valign="top">
 
-**💬 公式LINE**<br>
-辞典と同じ見た目のメニューで、質問の受付や辞典への案内を返す窓口。
+**📝 [nippou-ai](https://github.com/juns0514555-afk/nippou-ai)** ![public](https://img.shields.io/badge/public-2ea44f?style=flat-square)<br>
+PCで開いていたアプリとウィンドウから、AIがその日の日報を書くWindowsツール。Gemini、Claude API、APIキー不要の Claude Code から選べます。
 
-`LINE Official Account`
+`Python` `Gemini` `Claude API` `Claude Code`
 
 </td>
 </tr>
@@ -73,10 +73,18 @@ AIアシスタントとの会話の中で、自分の学習記録を確認した
 `Node.js` `MCP` `faster-whisper`
 
 </td>
+<td width="50%" valign="top">
+
+**💬 公式LINE**<br>
+辞典と同じ見た目のメニューで、質問の受付や辞典への案内を返す窓口。
+
+`LINE Official Account`
+
+</td>
 </tr>
 </table>
 
-<sub>コードは今のところ非公開です。順に公開していきます。 / Repositories are private for now.</sub>
+<sub>nippou-ai は公開中です。ほかのコードは順に公開していきます。 / nippou-ai is public; others will follow.</sub>
 
 <details>
 <summary><b>💡 なぜ辞典を作ったのか</b></summary>
