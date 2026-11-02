@@ -10,11 +10,11 @@
 
 ### 🙋 About
 
-はじめまして、笹 純です。東京の大学で国際経営を学んでいます。
+はじめまして、笹 純です。22歳で、東京の大学で国際経営を学んでいます。
 好きなことは、バスケと旅行です。フィリピンとオーストラリアで、1年近く海外に住んでいました。
 気になったことはまず試してみる性格で、このページの作品も、そうして作ったものです。
 
-Hi, I'm Jun Sasa, a student studying international business at a university in Tokyo.
+Hi, I'm Jun Sasa, a 22-year-old student studying international business at a university in Tokyo.
 I love basketball and traveling, and I lived abroad for nearly a year, in the Philippines and Australia.
 I like to try things out as soon as I get curious, and that's how the projects on this page came about.
 
